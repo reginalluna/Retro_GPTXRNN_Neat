@@ -31,6 +31,7 @@ def eval_genomes(genomes, config):
         current_max_fitness = 0
         fitness_current = 0
         frame = 0
+        counter = 0
         xpos = 0
         xpos_max = 0
         
